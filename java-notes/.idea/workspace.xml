@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a03b344-221b-46d5-b8b2-642fdf1bffca" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/equals-and-hashes/src/main/java/io/github/ean244/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../equals-and-hashes/equals-and-hashes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/equals-and-hashes/src/test/java/io/github/ean244/EqualityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equals-and-hashes/src/test/java/io/github/ean244/HashTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/equals-and-hashes/equals-and-hashes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/equals-and-hashes/equals-and-hashes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/equals-and-hashes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/equals-and-hashes/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/equals-and-hashes/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/equals-and-hashes/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/equals-and-hashes/src/test/java/io/github/ean244/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals-and-hashes/src/main/java/io/github/ean244/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/equals-and-hashes/src/main/java/io/github/ean244/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals-and-hashes/src/test/java/io/github/ean244/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593920742259</updated>
-      <workItem from="1593920746229" duration="5145000" />
+      <workItem from="1593920746229" duration="6176000" />
     </task>
     <servers />
   </component>
@@ -138,22 +133,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="403" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593932813152" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1593932644511">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1593934356172">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593932644511" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1593932644511">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593934356172" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1593934356172">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593932644511" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1593932644511">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593934356172" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1593934356172">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593932644511" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1593932644511">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593934356172" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1593934356172">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593932644511" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593934356172" />
     <state x="335" y="40" key="NewModule_or_Project.wizard" timestamp="1593932815954">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -162,10 +157,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593932940778" />
-    <state width="390" height="172" key="javadoc.popup.new" timestamp="1593933166756">
+    <state width="390" height="172" key="javadoc.popup.new" timestamp="1593933508648">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="390" height="172" key="javadoc.popup.new/0.0.1280.680@0.0.1280.680" timestamp="1593933166756" />
+    <state width="390" height="172" key="javadoc.popup.new/0.0.1280.680@0.0.1280.680" timestamp="1593933508648" />
     <state x="72" y="0" key="new project wizard" timestamp="1593932637279">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -174,9 +169,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1593931647224" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593932251713">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593933358547">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593932251713" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593933358547" />
   </component>
 </project>

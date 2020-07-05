@@ -42,4 +42,10 @@ public class Point {
         result += 31 * result + name.hashCode();
         return result;
     }
+
+//  Alternatively:
+//    @Override
+//    public int hashCode() {
+//        return Objects.hash(x, y, name);
+//    }
 }
