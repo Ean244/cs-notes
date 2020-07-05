@@ -1,4 +1,4 @@
-package org.example;
+package io.github.ean244;
 
 import static org.junit.Assert.assertTrue;
 
